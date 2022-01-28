@@ -1,5 +1,3 @@
-
-
 def main():
 
     line = int(input())
